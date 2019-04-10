@@ -1,0 +1,1 @@
+Added a stopping branch to model used in https://github.com/carla-simulator/imitation-learning
